@@ -26,7 +26,8 @@
       "name": "Technical Fest",
       "path": "/?cat=Technical",
       "departments": [
-        "HACK"
+        "HACK",
+        "PAPER"
       ]
     },
     {

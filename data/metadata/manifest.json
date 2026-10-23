@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
-  "publicationId": "pub_1792753088239_c309ab",
-  "generatedAt": "2026-10-23T10:58:09.287Z",
+  "publicationId": "pub_1792769947311_d273a1",
+  "generatedAt": "2026-10-23T15:39:07.820Z",
   "totalFiles": 18,
   "datasetStats": {
     "eventsCount": 2,
     "passesCount": 2,
-    "departmentsCount": 1,
+    "departmentsCount": 2,
     "culturalSubcategoriesCount": 2,
     "sponsorsCount": 0,
-    "clubsCount": 0,
+    "clubsCount": 6,
     "pastEventsCount": 0,
-    "configKeysCount": 19
+    "configKeysCount": 22
   },
   "files": [
     {
       "path": "global/site-config.json",
-      "size": 1116,
-      "checksum": "sha256-5a08f98fe211c223f53e00486da1812a3de1c2e7767124d5229ddc0c298beab6"
+      "size": 1361,
+      "checksum": "sha256-7c9e67f1650768b6a6351d5d77d9efdd2afc92a6317d7bcac1ecf37b9ad8934a"
     },
     {
       "path": "global/navigation.json",
-      "size": 744,
-      "checksum": "sha256-c6869ea4e40068069f2783877c113512f52459b7fc9a8b9e0c4a26307fed4453"
+      "size": 761,
+      "checksum": "sha256-b22c1375545ea605e0f308bc74d2360ef09461319eb4c9aa42b2756c6cfe428f"
     },
     {
       "path": "global/theme-config.json",
@@ -71,13 +71,13 @@
     },
     {
       "path": "passes/passes-list.json",
-      "size": 2852,
-      "checksum": "sha256-2e20ff45f844493157ed183092865ba62a5fd7e0ac70b9b4b4a4d53a19926dce"
+      "size": 3280,
+      "checksum": "sha256-ddfff3b4724b87b61ab6bdc1111715b8ef4cdc986f08611e22cf0e9ffed099a5"
     },
     {
       "path": "passes/pass-tiers.json",
       "size": 383,
-      "checksum": "sha256-11765f7d786300cffac6cd4f8e148eeca0cd2d26783fea58f9638d3dc5fae017"
+      "checksum": "sha256-1045bb27f8049e0c533f47a80e980fba526862ceced460a0cefe98f461f21772"
     },
     {
       "path": "sponsors/sponsors-list.json",
@@ -86,8 +86,8 @@
     },
     {
       "path": "clubs/clubs-list.json",
-      "size": 2,
-      "checksum": "sha256-4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+      "size": 1906,
+      "checksum": "sha256-e3c9955231dea19ea2c6af3bbf141dbd1a704e70c36cee4203df48a4df61572c"
     },
     {
       "path": "about/about-content.json",
@@ -96,8 +96,8 @@
     },
     {
       "path": "departments/departments-list.json",
-      "size": 347,
-      "checksum": "sha256-3fb13d2d36db8633b66f21df83a9c76b04fbe80e431bdb386d934af1a73a4ca5"
+      "size": 688,
+      "checksum": "sha256-4d05b1956598f4f84ae6a00a2c9b2a292859690d3dd316bd5ef561c33d7f782e"
     },
     {
       "path": "cultural/subcategories-list.json",
