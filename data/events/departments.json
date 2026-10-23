@@ -1,0 +1,19 @@
+{
+  "ONSTAGE": [
+    {
+      "_id": "6ada41f146474a7c0479b396",
+      "title": "Dance",
+      "slug": "dance",
+      "venue": "Auditorium",
+      "date": "2026-10-28T00:00:00.000Z"
+    }
+  ],
+  "CSE": [
+    {
+      "_id": "6ad9aa8c39d513172c967d0d",
+      "title": "Neural Nexus AI Hackathon",
+      "venue": "Turing Advanced Computing Lab, Block A",
+      "date": "2026-11-15T00:00:00.000Z"
+    }
+  ]
+}

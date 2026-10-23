@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "6ada52d174a3e371472be6a4",
+    "code": "OnStage",
+    "name": "On Stage",
+    "image": "https://images.unsplash.com/photo-1514525253361-bee8a48790c3?auto=format&fit=crop&w=800&q=80",
+    "order": 1,
+    "createdAt": "2026-10-22T18:15:45.841Z",
+    "updatedAt": "2026-10-22T18:15:45.841Z",
+    "id": "6ada52d174a3e371472be6a4"
+  },
+  {
+    "_id": "6ada52d174a3e371472be6a5",
+    "code": "OffStage",
+    "name": "Off Stage",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=800&q=80",
+    "order": 2,
+    "createdAt": "2026-10-22T18:15:45.841Z",
+    "updatedAt": "2026-10-22T18:15:45.841Z",
+    "id": "6ada52d174a3e371472be6a5"
+  }
+]

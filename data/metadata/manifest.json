@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "publicationId": "pub_1792753088239_c309ab",
+  "generatedAt": "2026-10-23T10:58:09.287Z",
+  "totalFiles": 18,
+  "datasetStats": {
+    "eventsCount": 2,
+    "passesCount": 2,
+    "departmentsCount": 1,
+    "culturalSubcategoriesCount": 2,
+    "sponsorsCount": 0,
+    "clubsCount": 0,
+    "pastEventsCount": 0,
+    "configKeysCount": 19
+  },
+  "files": [
+    {
+      "path": "global/site-config.json",
+      "size": 1116,
+      "checksum": "sha256-5a08f98fe211c223f53e00486da1812a3de1c2e7767124d5229ddc0c298beab6"
+    },
+    {
+      "path": "global/navigation.json",
+      "size": 744,
+      "checksum": "sha256-c6869ea4e40068069f2783877c113512f52459b7fc9a8b9e0c4a26307fed4453"
+    },
+    {
+      "path": "global/theme-config.json",
+      "size": 954,
+      "checksum": "sha256-1515c430dfb6a3e93ae6d2adeb6ec94659a1a081a5fe60b42e9c818863756f8e"
+    },
+    {
+      "path": "home/hero.json",
+      "size": 331,
+      "checksum": "sha256-51b7063ba31a1ad14b813feecfcc074d12adead4330145106f5a2a8877c607e0"
+    },
+    {
+      "path": "home/highlights.json",
+      "size": 193,
+      "checksum": "sha256-4eb98b47d7c7b287a3abf7f2752cdebc631b16099d7a369f8b746a7bb8ea4ff3"
+    },
+    {
+      "path": "home/featured-events.json",
+      "size": 644,
+      "checksum": "sha256-c0d79052d2a3b7ec0b640228f52197491c74276a27f5e477d673987140276b7c"
+    },
+    {
+      "path": "home/announcements.json",
+      "size": 157,
+      "checksum": "sha256-1a32cf2e98b210abbb3296b3a1b757dff9d42be07a45e373902c69a6d62aa983"
+    },
+    {
+      "path": "events/events-list.json",
+      "size": 2590,
+      "checksum": "sha256-603435c37b697075a965f1e5a2cebd37a61089020be562a979d7dfd7d422f717"
+    },
+    {
+      "path": "events/event-categories.json",
+      "size": 227,
+      "checksum": "sha256-d3690bf5615713cea055a8b19beb2a99adec677fa450563d44f4fb84fa00513b"
+    },
+    {
+      "path": "events/departments.json",
+      "size": 403,
+      "checksum": "sha256-c4fba0ea69cc80f03b8e6fddbf2de4e5ddacc62b763c762e2aa607d4ffb0c120"
+    },
+    {
+      "path": "events/past-events.json",
+      "size": 2,
+      "checksum": "sha256-4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "passes/passes-list.json",
+      "size": 2852,
+      "checksum": "sha256-2e20ff45f844493157ed183092865ba62a5fd7e0ac70b9b4b4a4d53a19926dce"
+    },
+    {
+      "path": "passes/pass-tiers.json",
+      "size": 383,
+      "checksum": "sha256-11765f7d786300cffac6cd4f8e148eeca0cd2d26783fea58f9638d3dc5fae017"
+    },
+    {
+      "path": "sponsors/sponsors-list.json",
+      "size": 2,
+      "checksum": "sha256-4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "clubs/clubs-list.json",
+      "size": 2,
+      "checksum": "sha256-4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "path": "about/about-content.json",
+      "size": 460,
+      "checksum": "sha256-c11dfa0dada516f8963e381e8ac2ec632c8d8cfafdd3e46f99203d314399561f"
+    },
+    {
+      "path": "departments/departments-list.json",
+      "size": 347,
+      "checksum": "sha256-3fb13d2d36db8633b66f21df83a9c76b04fbe80e431bdb386d934af1a73a4ca5"
+    },
+    {
+      "path": "cultural/subcategories-list.json",
+      "size": 698,
+      "checksum": "sha256-8e550aa5fbb8ec4e1a7c5b7072c27df9c5aadd0483d44538dee141e3759e30a5"
+    }
+  ]
+}

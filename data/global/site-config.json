@@ -1,0 +1,21 @@
+{
+  "event_year": "2026",
+  "website_name": "Kalam",
+  "registration_open": "true",
+  "about_logo": "https://ik.imagekit.io/kalam/About%20Page/Logo.png?updatedAt=1792635761882",
+  "about_logo_width": "500px",
+  "about_kce_image": "https://ik.imagekit.io/kalam/About%20Page/KCE%20Logo%202.png",
+  "navbar_logo": "https://ik.imagekit.io/kalam/About%20Page/Logo.png",
+  "home_hero_bg": "https://ik.imagekit.io/kalam/Hero/Celestial%20Blue%20Arena%20Portal.png",
+  "home_bg": "",
+  "about_bg": "",
+  "passes_bg": "https://ik.imagekit.io/kalam/Hero/Futuristic%20Blue%20Crystal%20Tech%20Stage.png",
+  "global_bg": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1920&q=80",
+  "events_bg": "https://ik.imagekit.io/kalam/About%20Page/Neon%20Cyber%20Tech%20Frame.png",
+  "cultural_events_bg": "",
+  "highlights_bg": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1920&q=80",
+  "event_detail_bg": "",
+  "register_bg": "",
+  "admin_bg": "",
+  "footer_bg": ""
+}

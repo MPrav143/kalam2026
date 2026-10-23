@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "6ad889b469ac73ab22078f25",
+    "name": "Technical Pass",
+    "price": "500",
+    "currency": "₹",
+    "color": "#087F5B",
+    "type": "Individual",
+    "perksCount": 2
+  },
+  {
+    "_id": "6ad99865bd190d7768f4fbe7",
+    "name": "Cultural Pass",
+    "price": "500",
+    "currency": "₹",
+    "color": "#D4AF37",
+    "type": "Individual",
+    "perksCount": 3
+  }
+]
